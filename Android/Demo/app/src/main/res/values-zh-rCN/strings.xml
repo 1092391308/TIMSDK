@@ -1,5 +1,5 @@
 <resources>
-    <string name="demo_app_name">腾讯云IM</string>
+    <string name="demo_app_name">腾讯本地Demo</string>
 
     <string name="test_custom_message">查看详情>></string>
 
